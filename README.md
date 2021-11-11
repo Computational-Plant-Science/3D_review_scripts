@@ -1,8 +1,10 @@
 # 3D_review_scripts
 scripts for comparison 3D reconstruction pipelines
+
 We compared commonly used open-source methods on a test panel of twelve contrasting maize genotypes grown in real field conditions. These methods include COLMAP [1], VisualSFM [2], OpenMVG [3], Meshroom [4] and Multi-View Environment [5]. Comparisons of 3D point cloud model density, number of points, and computation time is performed.
 
-REFERENCES 
+REFERENCES
+
 [1] Schonberger, Johannes L., and Jan-Michael Frahm. "Structure-from-motion revisited." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4104-4113. 2016.
 
 [2] Wu, Changchang. "VisualSFM: A visual structure from motion system." (2011). 
