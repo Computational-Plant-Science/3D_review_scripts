@@ -5,12 +5,14 @@ We compared commonly used open-source methods on a test panel of twelve contrast
 
 REFERENCES
 
-[1] Schonberger, Johannes L., and Jan-Michael Frahm. "Structure-from-motion revisited." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4104-4113. 2016.
+[1] Schonberger, Johannes L., and Jan-Michael Frahm. "Structure-from-motion revisited." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 4104-4113. 2016. https://demuc.de/colmap/
 
-[2] Wu, Changchang. "VisualSFM: A visual structure from motion system." (2011). 
+[2] Wu, Changchang. "VisualSFM: A visual structure from motion system." (2011). http://ccwu.me/vsfm/
 
-[3] Moulon, Pierre, Pascal Monasse, Romuald Perrot, and Renaud Marlet. "Openmvg: Open multiple view geometry." In International Workshop on Reproducible Research in Pattern Recognition, pp. 60-74. Springer, Cham, 2016. 
+[3] Moulon, Pierre, Pascal Monasse, Romuald Perrot, and Renaud Marlet. "Openmvg: Open multiple view geometry." In International Workshop on Reproducible Research in Pattern Recognition, pp. 60-74. Springer, Cham, 2016. https://github.com/openMVG/openMVG
 
-[4] Griwodz, Carsten, Simone Gasparini, Lilian Calvert, Pierre Gurdjos, Fabien Castan, Benoit Maujean, Gregoire De Lillo, and Yann Lanthony. "AliceVision Meshroom: An open-source 3D reconstruction pipeline." In Proceedings of the 12th ACM Multimedia Systems Conference, pp. 241-247. 2021. 
+[4] Griwodz, Carsten, Simone Gasparini, Lilian Calvert, Pierre Gurdjos, Fabien Castan, Benoit Maujean, Gregoire De Lillo, and Yann Lanthony. "AliceVision Meshroom: An open-source 3D reconstruction pipeline." In Proceedings of the 12th ACM Multimedia Systems Conference, pp. 241-247. 2021. https://alicevision.org/
 
-[5] Fuhrmann, Simon, Fabian Langguth, and Michael Goesele. "MVE-A Multi-View Reconstruction Environment." In GCH, pp. 11-18. 2014. 
+[5] Fuhrmann, Simon, Fabian Langguth, and Michael Goesele. "MVE-A Multi-View Reconstruction Environment." In GCH, pp. 11-18. 2014. https://www.gcc.tu-darmstadt.de/home/proj/mve/
+
+
